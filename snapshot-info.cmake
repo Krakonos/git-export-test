@@ -1,0 +1,6 @@
+set(VCS_VERSION 0.0.0.1)
+set(VCS_BRANCH "SNAPSHOT")
+set(VCS_COMMIT "$Format:%h$")
+set(VCS_DESCRIBE "${VCS_VERSION}-SNAPSHOT-g%h")
+set(VCS_DIRTY 0)
+set(VCS_SNAPSHOT "$Format:YES$")
